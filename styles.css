@@ -1,0 +1,29 @@
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-style: normal;
+    background-color: rgb(211, 196, 230);
+    color:#FFFFFF;
+    }
+
+h3 {
+    background-color: #3333b6;
+    color: #FFFFFF;
+    font-size: 200%;
+}
+<style>
+    .Pink-text {
+        color: rgb(255, 0, 221);
+    }
+</style>
+
+
+#page-color-element{
+    color:rgb(255, 7, 214); 
+    font-family:Courier;
+    font-weight:bold;
+    font-style:italic;
+   } 
+.llamado {
+    background-color: rgb(153,102,153);
+    color: rgb(255,255,204);
+}
